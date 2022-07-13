@@ -1,0 +1,25 @@
+.parent {
+  color: white;
+  width: 256px;
+  height: 256px;
+  background-color: blue;
+}
+
+.child {
+  width: 128px;
+  height: 128px;
+  background-color: red;
+}
+a {
+  color: white;
+}
+a:link {
+  color: steelblue;
+}
+
+a:active {
+  color: orange;
+}
+a:visited {
+  color: purple;
+}
